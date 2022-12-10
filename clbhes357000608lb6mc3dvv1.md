@@ -1,4 +1,4 @@
-# PHP Conditionals: if/else/elseif statements
+# PHP Basics: Conditionals - if/else/elseif statements
 
 A conditional statement in PHP is a control flow statement that allows you to execute a block of code based on the result of a logical expression. In other words, a conditional statement allows you to make decisions in your code by checking if a certain condition is true or false.
 
