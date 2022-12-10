@@ -1,8 +1,8 @@
 # PHP Basics: echo(), print(), print_r(), var_dump() statements
 
-In PHP, the echo and print statements are used to output data to the screen or to a file. They are similar in that they both send output to the browser, but there are a few key differences between them.
+In PHP, the `echo` and `print` statements are used to output data to the screen or to a file. They are similar in that they both send output to the browser, but there are a few key differences between them.
 
-The echo statement is used to output one or more strings of text. It can take multiple arguments and output them all at once, separated by commas.
+The `echo` statement is used to output one or more strings of text. It can take multiple arguments and output them all at once, separated by commas.
 
  Here is an example of how it works:
 `echo "Hello, world!";`
