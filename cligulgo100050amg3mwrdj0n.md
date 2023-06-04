@@ -3,6 +3,7 @@ title: "Solidity 101: Advanced Concepts and Best Practices"
 datePublished: Sun Jun 04 2023 03:12:56 GMT+0000 (Coordinated Universal Time)
 cuid: cligulgo100050amg3mwrdj0n
 slug: solidity-101-advanced-concepts-and-best-practices
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/L2QB-rG5NM0/upload/0d43530d5659b0d5df2d4da9111d1d3f.jpeg
 tags: tutorial, beginners, blockchain, solidity, web3
 
 ---
