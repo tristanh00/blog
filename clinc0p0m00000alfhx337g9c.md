@@ -3,7 +3,7 @@ title: "JavaScript Arrays: How to Delete / Remove Array Keys & Value"
 datePublished: Thu Jun 08 2023 16:07:17 GMT+0000 (Coordinated Universal Time)
 cuid: clinc0p0m00000alfhx337g9c
 slug: javascript-arrays-how-to-delete-remove-array-keys-value
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/xrVDYZRGdw4/upload/9b9f6d6deb233db60fed54f5f373217b.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686240514576/43004189-ef43-4d5f-9fff-1c67e78f0213.png
 tags: tutorial, javascript, web-development, beginners, proper
 
 ---
