@@ -78,7 +78,3 @@ In TypeScript, the line between types and interfaces can sometimes blur, as both
 ## Conclusion
 
 Introducing types and interfaces into your JavaScript workflow can greatly improve the quality and maintainability of your code. TypeScript’s ability to catch errors early, provide tooling support, and improve code documentation makes it an invaluable asset for any project looking to scale. As a JavaScript developer, embracing TypeScript can lead to more efficient development cycles, robust applications, and ultimately, a more enjoyable coding experience.
-
-Want to learn more?  
-  
-Join the discord %%discord
