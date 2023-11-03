@@ -1,4 +1,12 @@
-# Javascript Basics:  The Standards (ES4, ES5, ES6, ES2020)
+---
+title: "Javascript Basics:  The Standards (ES4, ES5, ES6, ES2020)"
+datePublished: Tue Dec 13 2022 07:10:32 GMT+0000 (Coordinated Universal Time)
+cuid: clblvwmx3000e08l84ei129ks
+slug: javascript-basics-the-standards-es4-es5-es6-es2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1699024753080/ebcd0789-87bc-45ca-b83a-2ad317e7474a.png
+tags: javascript
+
+---
 
 JavaScript is a programming language that is commonly used for creating interactive elements on websites, such as forms, animations, and games. Over the years, the language has evolved and several different standards, or versions, of JavaScript have been developed.
 
